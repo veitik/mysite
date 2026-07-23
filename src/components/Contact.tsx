@@ -58,6 +58,13 @@ export default function Contact() {
                     </a>
                   </div>
                   <div>
+                    <span className="text-brand-secondary text-sm block mb-1">Следить за этапами разработки</span>
+                    <a href="https://t.me/veitik_studio_bot" target="_blank" rel="noopener noreferrer" className="font-heading text-xl font-semibold hover:text-brand-primary transition-colors">
+                      @veitik_studio_bot
+                    </a>
+                    <p className="text-brand-secondary/70 text-xs mt-1">Через бота можно отслеживать статус проекта и держать связь с разработчиками.</p>
+                  </div>
+                  <div>
                     <span className="text-brand-secondary text-sm block mb-1">Или на почту</span>
                     <a href="mailto:veityt@yandex.ru" className="font-heading text-xl font-semibold hover:text-brand-primary transition-colors">
                       veityt@yandex.ru
